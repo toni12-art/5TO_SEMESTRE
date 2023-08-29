@@ -64,11 +64,11 @@ p {
 }
 
 .obj {
-  max-width: 1000px; /* Establece un límite de ancho para el elemento */
-  padding: 20px; /* Añade espacio interno al elemento */
-  border-radius: 10px; /* Establece el radio de las esquinas para crear bordes redondeados */
-  background-color: #f0f0f0; /* Cambia el color de fondo según tus preferencias */
-  margin: 20px auto; /* Añade margen superior e inferior y centra horizontalmente */
+  max-width: 1000px; 
+  padding: 20px;
+  border-radius: 10px; 
+  background-color: #f0f0f0; 
+  margin: 20px auto; 
 }
 
 /*Aqui inicia lo de u1*/
