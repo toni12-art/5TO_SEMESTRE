@@ -1,0 +1,122 @@
+body {
+  background-color: #e6f20074; 
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+.menu {
+  background-color: #00000098;
+  padding: 10px;
+}
+
+.menu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.menu li {
+  margin: 0 20px;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.menu a:hover {
+  text-decoration: underline;
+}
+
+p {
+  color: #000000;
+}
+
+.imgprin {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 5vh;
+  background-color: #b61fb398;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+.tamimgprin {
+  margin: 0 auto;
+}
+
+.carr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100;
+  background-color: #e6f20074;
+  margin: 0;
+  border-radius: 10px;
+}
+
+.carr2 {
+  text-align: center;
+}
+
+.obj {
+  max-width: 1000px; /* Establece un límite de ancho para el elemento */
+  padding: 20px; /* Añade espacio interno al elemento */
+  border-radius: 10px; /* Establece el radio de las esquinas para crear bordes redondeados */
+  background-color: #f0f0f0; /* Cambia el color de fondo según tus preferencias */
+  margin: 20px auto; /* Añade margen superior e inferior y centra horizontalmente */
+}
+
+/*Aqui inicia lo de u1*/
+.imgu1 {
+  display: flex;
+  justify-content: center;
+}
+
+.carru1 {
+  max-width: 1100;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #bc8282;
+  margin: 20px auto;
+}
+
+.carr2u1 {
+  text-align: center;
+}
+
+.Glo {
+  max-width: 1000px;
+  padding: 1px;
+  border-radius: 10px;
+  background-color: #f0f0f0;
+  margin: 0px auto;
+}
+
+.Glo1 {
+  text-align: center;
+}
+
+.inf {
+  max-width: 1000px;
+  padding: 40pz;
+  border-radius: 10px;
+  background-color: #f0f0f0;
+  margin: 20px auto;
+}
+
+.Glo2 {
+  max-width: 500px;
+  padding: 1px;
+  border-radius: 10px;
+  background-color: #f0f0f0;
+  margin: 0px auto;
+}
+
+.Glo12 {
+  text-align: center;
+}
