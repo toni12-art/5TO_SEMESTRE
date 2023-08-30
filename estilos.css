@@ -65,7 +65,7 @@ p {
 
 .obj {
   max-width: 1000px; 
-  padding: 20px;
+  padding: 20px; 
   border-radius: 10px; 
   background-color: #f0f0f0; 
   margin: 20px auto; 
@@ -119,4 +119,15 @@ p {
 
 .Glo12 {
   text-align: center;
+}
+
+.chido-section {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #ffa500;
+  text-align: center;
+  font-size: 18px;
+  color: #fff;
 }
